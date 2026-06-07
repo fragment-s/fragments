@@ -1,2 +1,2 @@
 # fragments
-description: We are cosmic dust
+We are cosmic dust
